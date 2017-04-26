@@ -1,0 +1,18 @@
+### Intellij IDEA工程文件
+.idea/
+.gradle/
+*.iml
+
+### 不提交测试代码
+test/
+
+### Maven Builder
+target/
+
+### 日志文件
+logs/
+
+### Mac OS X
+.DS_Store
+
+
