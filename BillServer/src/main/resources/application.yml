@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: bill_server
+    profiles:
+        active: dev

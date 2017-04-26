@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: test_server
+    profiles:
+        active: dev
